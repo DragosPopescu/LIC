@@ -17,6 +17,7 @@ int main() {
     std::cout << "ERROR testing log functionality" << std::endl;
     return 0;
   }
+//
 
   std::cout << " **** Logging tests passed ok ****" << std::endl;
 
